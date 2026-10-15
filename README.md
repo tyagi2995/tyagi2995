@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Tyagi</h1>
 
 <h3 align="center">
-Software Engineer | Backend Developer | React & React Native Developer | AI Enthusiast
+Software Engineer | Backend Developer | React Developer 
 </h3>
 
 <p align="center">
